@@ -1,0 +1,19 @@
+{
+  "cwd": "/workspace/Framework7-tips",
+  "type": [
+    "web"
+  ],
+  "name": "Framework7-tips",
+  "framework": "svelte",
+  "template": "blank",
+  "cssPreProcessor": "less",
+  "bundler": "vite",
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
