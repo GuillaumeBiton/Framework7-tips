@@ -20,4 +20,5 @@ Framework7.use(Framework7Svelte)
 // Mount Svelte App
 const app = new App({
   target: document.getElementById('app'),
+  autoDarkTheme: true
 });
